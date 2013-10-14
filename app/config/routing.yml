@@ -1,0 +1,7 @@
+maga_taller:
+    resource: "@MagaTallerBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
+
